@@ -1,4 +1,4 @@
-# 
+# Seguro Cat vs Dog Classifier with PyTorch and Streamlit temas. Con procesamiento de lenguaje natural y redes neuronales — optimizado para el máximo rendimiento.
 
 
 
